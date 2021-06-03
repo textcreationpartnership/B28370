@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honorable the Commissioners for Compounding the humble petition of Josiah Primatt, citizen and leather-seller of London</title>
+            <author>Primatt, Josiah.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28370</idno><idno type="EEBO-CITATION">99829134</idno>
+  <idno type="VID">207723</idno>
+  <idno type="EEBO-PROQUEST">2240859489</idno>
+  
+            <idno type="STC">Wing P3456A</idno>
+            <idno type="PROQUEST">99829134</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829134e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1938:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honorable the Commissioners for Compounding the humble petition of Josiah Primatt, citizen and leather-seller of London</title>
+                  <author>Primatt, Josiah.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy trimmed.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land tenure --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land titles --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:207723:1"/>
+            <head type="sub">To the honorable the Commissioners for COMPOVNDING:</head>
+            <head>
+               <hi>The humble Petition of</hi> Josiah Primatt, <hi>Citizen and Leather-seller of</hi> London:</head>
+            <opener>SHEWETH,</opener>
+            <p>THat the Collyerie of <hi>Harraton</hi> in the County of <hi>Durham,</hi> consisting of four Seams of Coal, distinguished by the names of the half Yard, three quarter, five quarter, and nine quarter Coale, and that one moiety of the Five and Nine quarter Seames of Coal in the said Collyerie were wrought under your Petitioners title, one of them untill 1640. and the other until 1642. and from that time, both the said Seams of coals lay drowned and unwrought until 1647. at which time your Petitioners tenants (viz.) Mr. <hi>George Lilburn</hi> and Mr. <hi>George Gray</hi> the younger, as to one moiety, and the tenants of one <hi>Commondale,</hi> and one <hi>Metcalf</hi> as to an<g ref="char:EOLhyphen"/>other fourth part of the said Seams of coal, undertook to regain and work the said 5 and 9 quarter Seams of coals, and by the expence of near 2000 <hi>l.</hi> they did regain and work the same until <hi>May</hi> 1648. at which time the Mynes were fired, and above 50. persons lives lost thereby, and within two months after by a great flood, the said Mynes were drowned again, and by the end of that year were regained again by the vast expence of your Petitioners said tenants, <hi>George Lilburn</hi> and <hi>Geo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge Gray,</hi> who enjoyed the same until <hi>September</hi> 1649. And within two months after were Sequestred by Sir <hi>Arthur Haselrig,</hi> &amp;c. and by Souldiers violently taken from your Petitioners said tenants, meerly out of pretence that they were Sequestred in 1644. as belongnig to one <hi>Thomas Wray</hi> of <hi>Beamish</hi> in the said County, a Papist Delinquent.</p>
+            <p>That before that day of Sequestration, your Petitioner went down into the County of <hi>Durham,</hi> and by his Councell desired the Com<g ref="char:EOLhyphen"/>mittee there, that the said Mr. <hi>Wray</hi> might shew his title, and evidence to the said Mynes, or that any Order in 1644. for sequestring the same as belonging to the said Mr. <hi>Wray,</hi> might be produced; but upon the day of hearing before the Committee of <hi>Durham,</hi> no such Order could be produced, and it would not be permitted by Sir <hi>Arthur Haselrig</hi> that the said <hi>Wray</hi> should shew any title thereunto, as is already deposed before your Honors, by divers witnesses then present.</p>
+            <p>That your Petitioner thereupon appealed to your Honors, and after long attendance, comming to a hearing about the seaven and twentieth of <hi>February</hi> last, the deposition of the said <hi>Wray</hi> in Chancery, not being allowed to be used, although in <hi>October</hi> 1641, he posi<g ref="char:EOLhyphen"/>tively swore that he had no interest at all in the 5 and 9 quarter coal, but a fourth part; which Oath in any Court in <hi>England,</hi> ought not to be denied for good evidence against himself, and the depositions of other witnesses being laid aside as parties, although they offered their Oaths that they had no Interest therein in Law or equity, and there was no writing purporting the sam<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; Your Petitioner thereupon was necessitated to withdraw his Petition, and to present a new Petition according to your Order, stating his title unto the 5 and 9 quar<g ref="char:EOLhyphen"/>ter Seams of coal, and his possession thereof, and to send above two hundred miles for several witnesses to prove the same; and your Committee of <hi>Durham,</hi> and Mr. <hi>Fowle,</hi> were ordered to take a special care of the Commonwealths Interest therein, and Mr. <hi>Wray</hi> was ordered to be at the hearing, and to have moneys allowed him for his charges, and to bring with him all his deeds and evidences concer<g ref="char:EOLhyphen"/>ning the same.</p>
+            <p>That your Petitioners witnesses being examined, and according to your Order, publication had, and a report of the state of the case being drawn by Mr. <hi>Reading,</hi> you were pleased to appoint a day for hearing the case, and to order that Mr. <hi>Wray</hi> should be present at the same to produce his deeds, and evidences; and h<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>t coming, a seco<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> da<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earing was appointed, and the said <hi>Wray</hi> ordered again to be there; and he not comming, it was pretended, that the reason was because he had not a licence from the Councell of State to come to <hi>London,</hi> although your own Officers had for about 2 months been ordered to procure such a licence, whereupon your Petitioner un<g ref="char:EOLhyphen"/>dertook to procure such a licence, and in one afternoon did procure the same, and sent it down by the Post.</p>
+            <p>That now the said <hi>Wray</hi> having been come to <hi>London</hi> above a week, your Petitioner expected his bearing, according to your several Or<g ref="char:EOLhyphen"/>ders, and that Mr. <hi>Wray</hi> should have brought his evidences into Court; but in stead hereof on <hi>Friday</hi> last, he findes Mr. <hi>Wray</hi> Petitioning for three months longer time, but states no title at all, nor produceth any deed according to your several Orders in the said case, not names any deed of any date, that he would have time to prove; and at last makes Oath that he hath material witnesses to examin, but names not unto what, and being asked who they were, he said in open Court, he knew not; yet contrary to the Rules of all Courts of Justice in <hi>England,</hi> that Affidavit of the said <hi>Wray</hi> was admitted by your Honors, as sufficient to give him a longer time.</p>
+            <p>That your Petitioner humbly offers it to you, that by confession of all parties, you took the said 5, and 9 Quarter Seames of Coals out of your Petitioners possession in 1649. and that in near two years time since, no proof is offered on the behalf of the State, that the State was ever in possession of the said Seames of Coal by Sequestration, which ought to have been upon Record, if it had been so, and that your Petitioner hath proved by many sufficient Witnesses, that the 5, and 9 Quarter Seames of Coale was never wrought from 1642, till 1647. when they were Wonn and Wrought by your Petitioner and his Tenants and others: Claiming from <hi>Metcalf</hi> and <hi>Comondale;</hi> and that in such Cases, by your own Rules, you doe take away no mans possession, untill the States title thereunto appears: And if it be doubtfull, you suffer the Possessor to enjoy it upon Security.</p>
+            <p>He further offers, That in case the said 9, and 5 Quarter Seams of Coal should by ill management be drowned, fired, or the Pits Wrought out, a vast summ of Money would not recover the same, and he knows not how he shall be repaired.</p>
+            <p>He therefore humbly prays, <hi>That he may either be restored to his possession, upon proof hereof now before you, at least upon Security, which you doe in Ordinary Cases, upon an Affidavit only; Or otherwise that his Case may be heard forthwith, no Title ever yet being set up against him.</hi>
+            </p>
+            <closer>And your Petitioner shall ever pray, &amp;c. <signed>Josiah Primat.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
